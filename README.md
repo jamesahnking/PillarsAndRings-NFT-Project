@@ -3,4 +3,4 @@
 
 This generator houses the art elements and attributes for the Pillars and Rings NFT project
 
-Generator is a fork of Hashlips Art generator.
+Generator is a fork of the Hashlips Art generator.
