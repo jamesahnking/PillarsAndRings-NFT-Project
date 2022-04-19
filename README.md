@@ -1,2 +1,3 @@
-# generative-art-opensource
-Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.
+# NFT Gereative Art Application - Generates a series of NFT artworks specified by the devloper based on what artwork layers and attributes. 
+
+This generator houses the art elements and attributes for the Pillars and Rings NFT project
